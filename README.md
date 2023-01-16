@@ -191,6 +191,5 @@ It will have the names of such people, the pending amount, due dates, etc. It wi
 
 ### 50. Anti-Smartphone Addiction App
 An anti-smartphone addiction app that will have many features aimed to help people avoid getting addicted to their phones.
-
 It will show timely notifications, send overuse alerts, show tips and suggestions for reducing the use of phones, etc.
 
