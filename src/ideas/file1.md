@@ -4,7 +4,7 @@
 
 > Scan and Shop apps that let you scan any items to find them online by the image so you can search and buy them from online shopping sites easily. You can add more features to make the app more interesting and useful.
 
-## 2  – Mall Navigation App
+## 2 – Mall Navigation App
 
 > A digital mall navigation app that will store a digital map of all the shopping malls in an area.<br/>The app can be used to navigate the map as well as directions in the mall and to check a particular store, bathroom, restaurant, or the status of parking spot.
 
@@ -236,7 +236,7 @@
 
 > A story writing and sharing app for those people who have stories to tell. They can access the app to write a story that can be viewed and even further improved by other users.
 
-## 60  – Party Planning And Invitation App
+## 60 – Party Planning And Invitation App
 
 > An instant party planning and invitation app that lets you make all the planning and arrangements for immediate parties within the app.<br/>It will also let you send instant invites to the selected persons from your contact list.
 
@@ -432,7 +432,7 @@
 
 > Taxation App that will automatically calculate your tax liability for a financial year based on your expenses and business transactions.<br/>There will also be an option to pay taxes within the app by making online payments.
 
-## 109 –  Safety/Help Alert App
+## 109 – Safety/Help Alert App
 
 > A safety/help alert app that can be used by women, girls, or anyone else in need.<br/>The app will send an alert to all the members in a respective area so that they can approach the place from where the alert has been originated by a person in distress and help them with any situation.
 
