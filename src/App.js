@@ -25,7 +25,10 @@ const App = () => {
           <h3>113 Mobile App Ideas For 2023 That Haven't Been Made Yet</h3>
         </div>
         <div className="item" onClick={() => createMarkdownFile("file2")}>
-          <h3>60+ Brilliant App Ideas for Startups to Launch in 2023  `</h3>
+          <h3>60+ Brilliant App Ideas for Startups to Launch in 2023</h3>
+        </div>
+        <div className="item" onClick={() => createMarkdownFile("file3")}>
+          <h3>50+ Best App Ideas For 2023</h3>
         </div>
       </p>
     </div>
