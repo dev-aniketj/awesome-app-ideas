@@ -13,3 +13,5 @@ Based on current business trends and technology movements, I identified the best
 ## [60+ Brilliant App Ideas for Startups to Launch in 2023](src/ideas/file2.md)
 
 ## [50+ Best App Ideas For 2023](src/ideas/file3.md)
+
+## [100+ Mobile App Ideas That Could Change The World in 2023-24](src/ideas/file4.md)
